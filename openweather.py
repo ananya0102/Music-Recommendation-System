@@ -5,7 +5,7 @@ from os import environ
 import json
 
 #API key for openweathermap API
-api_key=st.secrets['api_key']
+api_key="e44793b07d95f2da2fbccb577147c76a"
 
 url='https://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
